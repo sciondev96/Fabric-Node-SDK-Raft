@@ -20,7 +20,7 @@ function printHelp () {
   echo "  ./testAPIs.sh -l golang|node"
   echo "    -l <language> - chaincode language (defaults to \"golang\")"
 }
-# Language defaults to "golang"
+# Language defaults to "node"
 LANGUAGE="node"
 
 # Parse commandline args
