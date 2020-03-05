@@ -11,13 +11,13 @@ A sample Node.js app to demonstrate **__fabric-client__** & **__fabric-ca-client
 * [Download Docker images](http://hyperledger-fabric.readthedocs.io/en/latest/samples.html#binaries)
 
 ```
-cd fabric-samples/balance-transfer/
+cd fabric-samples/<cloned folder>/
 ```
 
 Once you have completed the above setup, you will have provisioned a local network with the following docker container configuration:
 
 * 3 CAs
-* A Raft orderer
+* A Raft orderer ( 5 orderering nodes )
 * 6 peers (2 peers per Org)
 
 #### Artifacts
