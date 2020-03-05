@@ -16,9 +16,9 @@ cd fabric-samples/balance-transfer/
 
 Once you have completed the above setup, you will have provisioned a local network with the following docker container configuration:
 
-* 2 CAs
-* A SOLO orderer
-* 4 peers (2 peers per Org)
+* 3 CAs
+* A Raft orderer
+* 6 peers (2 peers per Org)
 
 #### Artifacts
 * Crypto material has been generated using the **cryptogen** tool from Hyperledger Fabric and mounted to all peers, the orderering node and CA containers. More details regarding the cryptogen tool are available [here](http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html#crypto-generator).
