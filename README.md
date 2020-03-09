@@ -54,7 +54,7 @@ PORT=4000 node app
 
 ##### Terminal Window 3
 
-* Execute the REST APIs from the section [Sample REST APIs Requests](https://github.com/hyperledger/fabric-samples/tree/master/balance-transfer#sample-rest-apis-requests)
+* Execute the REST APIs from the section Sample REST APIs Requests below.
 
 
 ### Option 2:
